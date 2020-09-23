@@ -1,0 +1,7 @@
+opdracht.txt
+ 4:in deze: <h1 class="slogan">Make Your Day</h1>
+          <h2 class="sub-slogan"><strong>Real People. Real Videos.</strong></h2>
+5: onder <h4>
+6: ja tussen tussen h4
+    <h4>Bedrijf</h4>
+    <span><a class="item-sub-column" href="/about?lang=nl"><h5>Over</h5></a></span>
