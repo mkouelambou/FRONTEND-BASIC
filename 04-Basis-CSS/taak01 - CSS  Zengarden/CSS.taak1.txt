@@ -1,0 +1,6 @@
+CSS.taak1.txt
+7: ja is het veranderd. Dit zijn de verschillen:
+
+     Bij html heb je: head, meta, link 
+
+       Bij CSS heb je: body, margin, px.
